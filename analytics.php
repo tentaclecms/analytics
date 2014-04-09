@@ -17,7 +17,7 @@ class analytics{
     static function settings_nav() {
         $nav[] = array(
             'title'     => 'Analytics',
-            'rout'      => 'analytic_settings',
+            'route'      => 'analytic_settings',
             'uri'       => 'analytics/view'
         );
 
